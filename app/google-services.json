@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "840157494712",
+    "firebase_url": "https://ticketappversiontwo.firebaseio.com",
+    "project_id": "ticketappversiontwo",
+    "storage_bucket": "ticketappversiontwo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840157494712:android:5c62f26133c5c2cb14234d",
+        "android_client_info": {
+          "package_name": "com.example.ticketappversiontwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840157494712-23crpp0r5j6v6ata7lsitl08pi28f3lt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ticketappversiontwo",
+            "certificate_hash": "b72758cb12cb4c10750c439a493371e7f55c9696"
+          }
+        },
+        {
+          "client_id": "840157494712-mhels0fso5nfbfitq88v2bhnom6c2e3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQQVKYP87CK3AdRqN8DWZWl-Sg4-mj4KI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840157494712-mhels0fso5nfbfitq88v2bhnom6c2e3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
